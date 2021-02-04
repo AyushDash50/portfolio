@@ -1,0 +1,31 @@
+         p {
+
+            color: purple
+        }
+
+        img{
+
+            border: solid yellow;
+        }
+
+        h1 {color: blue} 
+
+        .header{
+            background-color: aquamarine;
+            display:flex;
+            justify-content: space-between;
+        }
+
+        .games{
+             display:flex;
+             justify-content: space-around;
+             flex-wrap: wrap;
+
+        }
+
+
+        .media{
+             display:flex;
+             justify-content: flex-end;
+     
+        }
